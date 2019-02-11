@@ -1,9 +1,9 @@
 {
-	"wallpapers": 
+	"wallpapers": [
 	  {
 		"author": "bwildner",
 		"url": "https://github.com/bwildner77/Fruhlingserwachen/blob/master/GEOSCAPE_json.jpg",
-		"name": "GEOSCAPE"
+		"name": "GEOSCAPE",
 	}
-   
+  ]
 }
